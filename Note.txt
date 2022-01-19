@@ -1,0 +1,36 @@
+Daily Income_Expense Manager App;
+====================================
+->Main Menu
+-Income Category vs Expense Category
+-Accounts
+-Budgets
+-Incomes vs Exepenses (Display)
+- Transactions = Income vs Expenses (Insertion)
+
+->Dashboard:
+-Total income vs Total Expense
+-Net Total
+-Total Users
+-Last 7 days Income vs Last 7 days Expense
+-Last 30 days income vs Last 30 Days Expense
+-Bar Chart of My Income Transactions
+-Total Expense Table
+
+-> Actions
+-Insert 
+-Update
+-Delete
+-Select
+
+->User Authenications
+
+->Reporting
+
+What Remains(under construction):
+-every tables' Update and Delete
+-Users registeration + Display(select,update, delete)
+-Budgets registeration + Display(select,update, delete)
+-User Authenications
+-Make everyone create his/her own Personal Account
+-Reporting Panel
+-Money Convertion
