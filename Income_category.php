@@ -393,7 +393,7 @@ $result = mysqli_query($conn, $sql);
                                         <tbody>
                                             <?php while ($row = mysqli_fetch_object($result)) : ?>
                                                 <tr>
-                                                    <td><?php echo $row->inc_cat_id; ?></td>
+                                                    <td><?php echo $row->income_cat_id; ?></td>
                                                     <td><?php echo $row->income_type; ?></td>
                                                     <td>
                                                         <a href="#" class="btn btn-success"> <i class="far fa-edit"></i> </a>
