@@ -396,7 +396,7 @@ $sql = "SELECT * FROM expense_category";
                                         <tbody>
                                             <?php while($row = mysqli_fetch_object($result)): ?>
                                                 <tr>
-                                                    <td><?php echo $row->exp_cat_id; ?></td>
+                                                    <td><?php echo $row->expense_cat_id; ?></td>
                                                     <td><?php echo $row->expense_type; ?></td>
                                                     <td>
                                                         <a href="#" class="btn btn-success"> <i class="far fa-edit"></i> </a>
